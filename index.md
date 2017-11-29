@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Alfy | Github Pages
 ---
 # MSP430 Launchpad Examples
