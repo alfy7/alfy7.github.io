@@ -1,7 +1,4 @@
-<<<<<<< HEAD
----
-title: Alfy | Github Pages
----
+
 # MSP430 Launchpad Examples
 This is a collection of basic code examples for the MSP430G2553.
 They would serve as reference so as to quickly get up and running with the MSP430G2553.
@@ -14,7 +11,3 @@ You would need an MSP430G2553 and its Launchpad MSP-EXP430G2 to run these codes.
 ## Acknowledgments
 
 * A whole lot of credits to the TI-CEPD team at NSIT, Delhi, India without whom this wouldn't be possible
-=======
-# alfy7.github.io
-My Webpage
->>>>>>> parent of 9cc5fdb... Set theme jekyll-theme-cayman
