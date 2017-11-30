@@ -5,3 +5,4 @@ I've had opportunities to study and work on interesting projects and I have comp
 # Projects
 ## [Getting Started with the MSP430](https://alfy7.github.io/MSP430-Launchpad-Examples/) 
 ## [Interfacing the MSP430 with the Mini-Voyager](https://alfy7.github.io/Mini-Voyager-Interfacing/)
+## [LTspice Basics](https://alfy7.github.io/LTspice-Basics/)
